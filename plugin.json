@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "daygauge-agent-plugin",
+  "version": "1.0.0",
+  "description": "Calculate sleep midpoint from manually supplied onset and wake times.",
+  "author": { "name": "Studea Limited", "url": "https://daygauge.com" },
+  "homepage": "https://daygauge.com/guides/sleep-midpoint-calculator/",
+  "repository": "https://github.com/jlucwright/daygauge-agent-plugin",
+  "license": "MIT",
+  "keywords": ["daygauge", "sleep", "midpoint", "skills"]
+}
